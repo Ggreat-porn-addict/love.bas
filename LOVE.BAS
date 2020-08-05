@@ -1,1 +1,1 @@
-LOVE.BAS.orig
+LOVE.BAS.new
